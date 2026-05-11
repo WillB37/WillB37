@@ -1,12 +1,12 @@
 # Hi, I'm Will 👋
 
-I'm a Senior Software Engineer with a focus on **internal tools**, **automation**, **developer productivity**, and **distributed systems reliability**. I build systems that remove friction, improve engineering workflows, and help teams ship with confidence.
+I'm a Senior Software Engineer with a focus on **internal tools**, **automation**, **developer productivity**, and **distributed systems reliability**. I build systems that make life easier for customers, increase engineering confidence, and improve efficiency across the software stack. I love delivering excellent experiences for both internal and external customers.
 
-Most of my professional work lives inside private company repositories, but this GitHub represents how I stay sharp, explore new technologies, and continue leveling up outside of work.
+Most of my coding work lives in company repositories, but this GitHub represents projects that intrigue me and help me build an even better technical background.
 
 ---
 
-## 🔧 What I Work On Professionally
+## 🔧 What I Work on Professionally
 - Internal tools and developer‑productivity systems  
 - CI/CD pipelines and workflow automation  
 - API testing, integration testing, and system‑level reliability  
@@ -26,7 +26,7 @@ These projects show:
 - hands‑on practice with frontend and backend concepts  
 - a commitment to continuous improvement  
 
-They’re not meant to represent production‑grade systems — they’re snapshots of my learning process.
+They are not production-ready software; they are snapshots into my learning process and hobbies.
 
 ---
 
@@ -52,4 +52,4 @@ I’ve pinned a few repositories that represent different parts of my learning j
 ## 🤝 Connect With Me
 If you’re interested in internal tools, automation, developer experience, or distributed systems, feel free to reach out or explore my work.
 
-Thanks for stopping by!
+Thanks for your time!
